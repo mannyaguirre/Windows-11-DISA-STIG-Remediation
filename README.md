@@ -1,4 +1,4 @@
-# Windows 11 DISA STIG Finding & Remediation
+# DISA STIG Finding & Remediation
 
 ![Security-Technical-Implementation-Guide](https://github.com/user-attachments/assets/bac81805-c132-4f6b-8955-d098fb9764ca)
 
